@@ -2,6 +2,9 @@
 
 This is a React application that displays a list of contacts.
 
+You can view the live site at https://uvuvuwu.github.io/resonate-q2-contacts-app/.  
+If you would like to run it locally, follow the instructions below:  
+
 ## Clone this repository 
 
 To clone this repository to your local machine, follow these steps:
