@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/uvuvuwu/resonate-q2-contacts-app.git/static/css/main.39d25262.css",
+    "main.js": "/uvuvuwu/resonate-q2-contacts-app.git/static/js/main.7528c702.js",
+    "static/js/453.b0314a49.chunk.js": "/uvuvuwu/resonate-q2-contacts-app.git/static/js/453.b0314a49.chunk.js",
+    "index.html": "/uvuvuwu/resonate-q2-contacts-app.git/index.html",
+    "main.39d25262.css.map": "/uvuvuwu/resonate-q2-contacts-app.git/static/css/main.39d25262.css.map",
+    "main.7528c702.js.map": "/uvuvuwu/resonate-q2-contacts-app.git/static/js/main.7528c702.js.map",
+    "453.b0314a49.chunk.js.map": "/uvuvuwu/resonate-q2-contacts-app.git/static/js/453.b0314a49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39d25262.css",
+    "static/js/main.7528c702.js"
+  ]
+}
